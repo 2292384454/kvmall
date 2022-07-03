@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "category_name": "手机",
+    "created_at": 1595388583
+  },
+  {
+    "id": 2,
+    "category_id": 2,
+    "category_name": "电视",
+    "created_at": 1595388706
+  },
+  {
+    "id": 3,
+    "category_id": 3,
+    "category_name": "空调",
+    "created_at": 1595388721
+  },
+  {
+    "id": 4,
+    "category_id": 4,
+    "category_name": "洗衣机",
+    "created_at": 1595388730
+  },
+  {
+    "id": 5,
+    "category_id": 5,
+    "category_name": "保护套",
+    "created_at": 1595388745
+  },
+  {
+    "id": 6,
+    "category_id": 6,
+    "category_name": "保护膜",
+    "created_at": 1595388753
+  },
+  {
+    "id": 7,
+    "category_id": 7,
+    "category_name": "充电器",
+    "created_at": 1595388762
+  },
+  {
+    "id": 8,
+    "category_id": 8,
+    "category_name": "充电宝",
+    "created_at": 1595388777
+  },
+  {
+    "id": 9,
+    "category_id": 9,
+    "category_name": "洁净",
+    "created_at": 1596710907
+  },
+  {
+    "id": 10,
+    "category_id": 10,
+    "category_name": "耳机音箱",
+    "created_at": 1596715454
+  }
+]

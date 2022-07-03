@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img_path": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ac3ef452ba1527d6bf32dc2c3ffc617c.jpg?thumb=1&w=1226&h=460&f=webp&q=90",
+    "product_id": 1,
+    "created_at": 1595388356
+  },
+  {
+    "id": 2,
+    "img_path": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/927d277dcf738aecc365800783b20c1e.jpg?w=2452&h=920",
+    "product_id": 33,
+    "created_at": 1595388380
+  },
+  {
+    "id": 3,
+    "img_path": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9ea58a3ce3c7499fdc67f30ed956b0ca.jpg?thumb=1&w=1226&h=460&f=webp&q=90",
+    "product_id": 34,
+    "created_at": 1595388396
+  },
+  {
+    "id": 4,
+    "img_path": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b7c2e5c62dfcaae720a3cd909c0eae52.jpg?w=2452&h=920",
+    "product_id": 0,
+    "created_at": 1595388410
+  },
+  {
+    "id": 5,
+    "img_path": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4481fa3cf0360c59742d5389eb1359f5.jpg?w=2452&h=920",
+    "product_id": 10,
+    "created_at": 1595388431
+  }
+]
